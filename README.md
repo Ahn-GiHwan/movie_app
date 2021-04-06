@@ -15,6 +15,6 @@ Styled-reset | Styled-reset를 통하여 css 초기화
 ___
 ___
 ### 이미지 클릭
-<a href="https://mo-ap.netlify.app/" title="네이버로 이동!"
-target="_blank">![movieApp](https://github.com/Ahn-GiHwan/movie_app/blob/master/public/movieApp.PNG?raw=true)</a>  
+[![MovieApp](https://github.com/Ahn-GiHwan/movie_app/blob/master/public/movieApp.PNG?raw=true)](https://mo-ap.netlify.app/)
+
 
