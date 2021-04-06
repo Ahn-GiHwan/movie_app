@@ -16,5 +16,5 @@ ___
 ___
 ### 이미지 클릭
 <a href="https://github.com/Ahn-GiHwan" title="네이버로 이동!"
-target="_blank">![movieApp](public/movieApp.png)</a>  
+target="_blank">![movieApp](https://github.com/Ahn-GiHwan/movie_app/blob/master/public/movieApp.PNG?raw=true)</a>  
 
